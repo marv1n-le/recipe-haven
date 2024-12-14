@@ -1,0 +1,90 @@
+﻿{
+   "CodeGenerationMode": 3,
+   "ContextClassName": "RecipeHavenContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "SWD.RecipeHaven.Data",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[category]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ingredient]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ingredientNutritionInfo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[nutritionInfo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[origin]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[payment]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[recipe]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[recipeIngredient]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[step]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[subscription]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[user]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[userSubscription]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
